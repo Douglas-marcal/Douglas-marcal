@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) 👋
 
-- 🌱       Estudando sobre JavaScript e Node.js
+- 🌱  Estudando sobre JavaScript e Node.js
 
 <div style="display: inline-block">
   
@@ -11,10 +11,18 @@
   
 <div style="display: inline_block"><br>
   
+  ### Tecnologias que estou me aperfeiçoando:
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  
+  ##
+  
+  ### Tecnologias que pretendo estudar:
+  <img align="center" alt="icon-Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="icon-Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="icon-Nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="icon-Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   
 </div>
 
