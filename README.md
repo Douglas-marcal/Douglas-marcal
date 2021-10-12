@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) 👋
 
-- 🌱  Estudando sobre JavaScript e Node.js
+- 🌱  Estudando Desenvolvimento Web Full Stack na Trybe
 
 <div style="display: inline-block">
   
