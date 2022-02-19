@@ -2,11 +2,16 @@
 
 - 🌱  Estudando Desenvolvimento Web Full Stack na Trybe
 
-<div style="display: inline-block">
+<div align="center">
   
-  <a href="https://github.com/Douglas-marcal"></a>
-  <img height="115" src="https://github-readme-stats.vercel.app/api?username=Douglas-marcal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width:="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-marcal&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Douglas-marcal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ 
+  </div>
+  
+<div align="center">
+  
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-marcal&layout=compact&langs_count=7&theme=github_dark"/>
+  
 </div>
   
 <div style="display: inline_block"><br>
